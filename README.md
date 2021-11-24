@@ -1,6 +1,6 @@
 # airflow_twitter_api2 📦🎲
 
-Neste repositorio estou construindo uma ETL que vai extrir os dados em batch da [API do twitter](https://developer.twitter.com/en/docs), vou utilizar as ferramentas abaixo:
+Neste repositorio estou construindo uma ETL que vai extrair os dados em batch da [API do twitter](https://developer.twitter.com/en/docs), vou utilizar as ferramentas abaixo:
 
 - [Airflow](https://airflow.apache.org/)
 - [Docker](https://www.docker.com/)
